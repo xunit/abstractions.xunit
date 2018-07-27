@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <AssemblyTitle>xUnit.net Abstractions (.NET Standard 1.0)</AssemblyTitle>
+    <Company>.NET Foundation</Company>
+    <Product>xUnit.net Testing Framework</Product>
+    <AssemblyVersion>2.0.1.0</AssemblyVersion>
+  </PropertyGroup>
+</Project>
