@@ -1,10 +1,8 @@
-## About This Project
+# About This Project
 
-This project contains the abstractions library from xUnit.net 2.0. The interfaces herein have been frozen since the RTW of 2.0, as they are how forward and backward compatibility for the runner utility library is achieved.
+This project contains the frozen abstractions definitions from xUnit.net 2.0. There should be no contributions to this project.
 
-No PRs should be made against this project.
-
-## About xUnit.net
+# About xUnit.net
 
 [<img align="right" width="100px" src="https://raw.githubusercontent.com/xunit/media/main/dotnet-foundation.svg" />](https://dotnetfoundation.org/projects/project-detail/xunit)
 
